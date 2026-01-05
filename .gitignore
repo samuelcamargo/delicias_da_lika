@@ -4,7 +4,6 @@
 /node_modules
 /.pnp
 .pnp.js
-/demo_dinolicia
 
 # testing
 /coverage
@@ -35,3 +34,20 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# projeto demo (referência)
+/demo_dinolicia
+
+# imagens originais (não commitadas)
+/demo_img
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+Thumbs.db
+.DS_Store

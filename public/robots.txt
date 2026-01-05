@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://acai-e-delicias-da-lika.vercel.app/sitemap.xml
